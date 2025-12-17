@@ -9,7 +9,7 @@ Estou à disposição para conexões e troca de ideias.
 
 ### STACK
 
-HTML5 | CSS3 | JavaScript ES6+ | Tailwind CSS | WordPress | Pacote Office | Tecnologia | IA
+SQL | Python | Excel | Power BI
 
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
