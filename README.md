@@ -9,7 +9,7 @@ Estou à disposição para conexões e troca de ideias.
 
 ### STACK
 
-SQL | Python | Excel | Power BI
+JavaScript | HTML5 | CSS | Illustrator | Photoshop | InDesign
 
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
