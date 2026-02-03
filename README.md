@@ -3,7 +3,7 @@
 
 Sou a Letícia, mas pode me chamar de Lê ou Lelê.
 
-Sou estudante de Análise e Desenvolvimento de Sistemas. Atualmente, tenho me interessado por Cibersegurança e Dados, e meu maior objetivo é trabalhar em uma dessas áreas. 
+Sou estudante de Análise e Desenvolvimento de Sistemas.
 
 Estou à disposição para conexões e troca de ideias.
 
