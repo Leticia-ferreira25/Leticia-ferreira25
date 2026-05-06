@@ -1,15 +1,11 @@
 <h1 align="center">Oiêêê! 👋🏼</h1>
 <h3 align="center">Desenvolvedora em formação 👩🏼‍💻</h3>
 
-Sou a Letícia, mas pode me chamar de Lê ou Lelê.
-
-Sou estudante de Análise e Desenvolvimento de Sistemas.
-
-Estou à disposição para conexões e troca de ideias.
+Sou a Letícia, mas pode me chamar de Lelê. Meu objetivo é atuar como desenvolvedora Full-Stack com foco em Inteligência Artificial e IA Generativa, aplicando conhecimentos em Python e JavaScript no desenvolvimento de funcionalidades escaláveis e documentadas.
 
 ### STACK
 
-JavaScript | HTML5 | CSS | Illustrator | Photoshop | InDesign
+JavaScript | HTML5 | CSS3 | React.js | Python | Tailwind
 
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
