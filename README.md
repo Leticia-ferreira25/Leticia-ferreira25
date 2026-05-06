@@ -1,4 +1,4 @@
-<h1 align="center">Oiêêê! 👋🏼</h1>
+<h1 align="center">Oiêêê!</h1>
 <h3 align="center">Desenvolvedora em formação 👩🏼‍💻</h3>
 
 Sou a Letícia, mas pode me chamar de Lelê. Meu objetivo é atuar como desenvolvedora Full-Stack com foco em Inteligência Artificial e IA Generativa, aplicando conhecimentos em Python e JavaScript no desenvolvimento de funcionalidades escaláveis e documentadas.
