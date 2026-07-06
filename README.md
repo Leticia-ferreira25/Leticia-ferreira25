@@ -1,5 +1,5 @@
-<h1 align="center">Oiê</h1>
-<h3 align="center">Desenvolvedora em formação</h3>
+<h1 align="center">Hello</h1>
+<h3 align="center">Software Development Student</h3>
 
 Hi! I'm Letícia, but you can call me Lett 👋
 
